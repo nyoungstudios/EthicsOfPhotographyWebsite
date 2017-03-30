@@ -1,0 +1,8 @@
+@charset "utf-8";
+.i {
+	text-indent: 50px;
+}
+.hang {
+	text-indent: -50px;
+	padding-left: 50px;
+}
